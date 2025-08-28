@@ -1,13 +1,13 @@
-name = "navsphere"
+name = "hekj123"
 compatibility_date = "2024-11-11"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
-GITHUB_ID = "Ov23lig3bTXpZHrPO1c8"
-GITHUB_OWNER = "tianyaxiang"
-GITHUB_REPO = "NavSphere"
+GITHUB_ID = "Ov23liwn7LwPkNh1nQtN"
+GITHUB_OWNER = "paul202506"
+GITHUB_REPO = "hekj123"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://dh.leti.ltd/api/auth"
-NEXT_PUBLIC_API_URL="https://dh.leti.ltd"
+NEXTAUTH_URL = "https://hekj123.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://hekj123.pages.dev/"
 
